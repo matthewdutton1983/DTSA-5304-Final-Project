@@ -1,3 +1,8 @@
-voila
+altair
+matplotlib
 notebook
+numpy
 pandas
+scipy
+scikit-learn
+voila
